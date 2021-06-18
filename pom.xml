@@ -81,7 +81,7 @@
         <!-- <mortbay.jetty.version>6.1.26</mortbay.jetty.version> -->
 
         <!-- origin: sansa-query -->
-        <httpcomponents.version>4.5.12</httpcomponents.version>
+        <httpcomponents.version>4.5.13</httpcomponents.version>
 
 
         <owlapi.version>5.1.17</owlapi.version>
